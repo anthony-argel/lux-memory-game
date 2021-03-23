@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lux-memory-game/static/css/main.b57c32ce.chunk.css",
-    "main.js": "/lux-memory-game/static/js/main.cb712bc1.chunk.js",
-    "main.js.map": "/lux-memory-game/static/js/main.cb712bc1.chunk.js.map",
+    "main.js": "/lux-memory-game/static/js/main.167d9e38.chunk.js",
+    "main.js.map": "/lux-memory-game/static/js/main.167d9e38.chunk.js.map",
     "runtime-main.js": "/lux-memory-game/static/js/runtime-main.f3dbc32c.js",
     "runtime-main.js.map": "/lux-memory-game/static/js/runtime-main.f3dbc32c.js.map",
     "static/js/2.9730dd5e.chunk.js": "/lux-memory-game/static/js/2.9730dd5e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f3dbc32c.js",
     "static/js/2.9730dd5e.chunk.js",
     "static/css/main.b57c32ce.chunk.css",
-    "static/js/main.cb712bc1.chunk.js"
+    "static/js/main.167d9e38.chunk.js"
   ]
 }
