@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lux-memory-game/static/css/main.b57c32ce.chunk.css",
+    "main.js": "/lux-memory-game/static/js/main.cb712bc1.chunk.js",
+    "main.js.map": "/lux-memory-game/static/js/main.cb712bc1.chunk.js.map",
+    "runtime-main.js": "/lux-memory-game/static/js/runtime-main.f3dbc32c.js",
+    "runtime-main.js.map": "/lux-memory-game/static/js/runtime-main.f3dbc32c.js.map",
+    "static/js/2.9730dd5e.chunk.js": "/lux-memory-game/static/js/2.9730dd5e.chunk.js",
+    "static/js/2.9730dd5e.chunk.js.map": "/lux-memory-game/static/js/2.9730dd5e.chunk.js.map",
+    "index.html": "/lux-memory-game/index.html",
+    "static/css/main.b57c32ce.chunk.css.map": "/lux-memory-game/static/css/main.b57c32ce.chunk.css.map",
+    "static/js/2.9730dd5e.chunk.js.LICENSE.txt": "/lux-memory-game/static/js/2.9730dd5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3dbc32c.js",
+    "static/js/2.9730dd5e.chunk.js",
+    "static/css/main.b57c32ce.chunk.css",
+    "static/js/main.cb712bc1.chunk.js"
+  ]
+}
