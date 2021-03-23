@@ -1,0 +1,104 @@
+html {
+    background-color: rgb(24, 24, 24);
+}
+.App {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#load-notification {
+    color: white;
+    font-size: 3vw;
+}
+
+#shown-cards {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2vw;
+    padding: 1vw;
+    background-color: rgb(103, 109, 103);
+    border-radius: 2vw;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 1vw;
+}
+
+@media (max-width:830px) {
+    #shown-cards {
+        height: 100vh;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .card {
+        width: 50vw;
+    }
+}
+
+#scoreboard {
+    display: flex;
+    font-size: 1.4vw;
+}
+
+#scoreboard p {
+    margin-right: 3vw;
+}
+
+#header {
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 3;
+    color: white;
+    background-color: rgb(103, 109, 103);
+    padding: .5vw;
+}
+
+#footer {
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom:0;
+    left:0;
+    z-index: 3;
+    color: white;
+    background-color: rgb(103, 109, 103);
+    padding: .5vw;
+}
+
+
+#header h1 {
+    font-size: 2vw;
+}
+
+#header h2 {
+    font-size: 1.4vw;
+}
+
+#footer a {
+    text-decoration: none;
+    color: white;
+}
